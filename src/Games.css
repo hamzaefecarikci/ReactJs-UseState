@@ -1,0 +1,13 @@
+.Games
+{
+    margin: 10px;
+    border: 2px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.imgGames
+{
+    width: 400px;
+}
